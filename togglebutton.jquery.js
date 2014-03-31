@@ -1,4 +1,4 @@
-; (function ($, window, document, undefined) {
+(function ($) {
 
   var defaults = { 
     clear_classes: false, 
@@ -93,4 +93,4 @@
     }
     });
   }
-})(jQuery, window, document);
+})(jQuery);
